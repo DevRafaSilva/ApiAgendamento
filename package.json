@@ -4,7 +4,7 @@
   "description": "API Node.js com CORS para gerenciar registros",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node apiAgendamento.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
