@@ -1,0 +1,17 @@
+{
+  "name": "api-node-cors",
+  "version": "1.0.0",
+  "description": "API Node.js com CORS para gerenciar registros",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
